@@ -1,0 +1,39 @@
+<!--
+  AndroidCheckInternetConnection by Stephanus Dai
+  @fullname : Stephanus Bagus Saputra
+              ( 戴 Dai 偉 Wie 峯 Funk )
+  @email    : wiefunk@stephanusdai.web.id
+  @contact  : http://t.me/wiefunkdai
+  @support  : http://opencollective.com/wiefunkdai
+  @weblink  : http://www.stephanusdai.web.id
+  Copyright (c) ID 2023 Stephanus Bagus Saputra. All rights reserved.
+  Terms of the following https://stephanusdai.web.id/p/license.html
+  -->
+
+<vector android:height="128dp" android:viewportHeight="512"
+    android:viewportWidth="512" android:width="128dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0l512,0 0,512 -512,0 0,-512z"/>
+        <path android:fillColor="#F1AA00" android:pathData="M467.06,450.58l0,-346.29l-73.87,0l-0.33,346.29z"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M0,0l512,0 0,512 -512,0 0,-512z"/>
+        <path android:fillColor="#F1AA00" android:pathData="M276.87,450.58l76.22,0l-2.03,-263.84l-73.76,0z"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M0,0l512,0 0,512 -512,0 0,-512z"/>
+        <path android:fillColor="#F1AA00" android:pathData="M160.87,450.58l74.02,0l0.16,-181.4l-75.08,0z"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M0,0l512,0 0,512 -512,0 0,-512z"/>
+        <path android:fillColor="#F1AA00" android:pathData="M169.36,167.74l-26.37,0.28 49.17,57.38c5.54,-4.02 45.14,-50.17 49.24,-57.56l-25.99,0 0,-105.81 -46.05,-0.61 0,106.32z"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M0,0l512,0 0,512 -512,0 0,-512z"/>
+        <path android:fillColor="#F1AA00" android:pathData="M46.77,119.74l24.55,0.14 1.05,106.45 45.85,-0.11c0.59,-22.68 -2.84,-90.23 1.39,-106.36l24.28,-0.13 -48.3,-57.1c-7.06,5.57 -46.39,50.87 -48.82,57.11z"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M0,0l512,0 0,512 -512,0 0,-512z"/>
+        <path android:fillColor="#F1AA00" android:pathData="M44.94,450.58l74.2,0l-0.09,-98.95l-74.11,0z"/>
+    </group>
+</vector>

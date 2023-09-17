@@ -1,0 +1,42 @@
+<!--
+  AndroidCheckInternetConnection by Stephanus Dai
+  @fullname : Stephanus Bagus Saputra
+              ( 戴 Dai 偉 Wie 峯 Funk )
+  @email    : wiefunk@stephanusdai.web.id
+  @contact  : http://t.me/wiefunkdai
+  @support  : http://opencollective.com/wiefunkdai
+  @weblink  : http://www.stephanusdai.web.id
+  Copyright (c) ID 2023 Stephanus Bagus Saputra. All rights reserved.
+  Terms of the following https://stephanusdai.web.id/p/license.html
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CheckInternetConnection" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.CheckInternetConnection.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Widget.Theme.RoundTopCard" parent="Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/Widget.Theme.RoundShapeAppearance</item>
+    </style>
+    <style name="Widget.Theme.RoundShapeAppearance" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">48dp</item>
+        <item name="cornerSizeTopLeft">48dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+</resources>
